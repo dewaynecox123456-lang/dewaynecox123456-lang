@@ -1,16 +1,50 @@
-## Hi there 👋
+# Dewayne Cox
 
-<!--
-**dewaynecox123456-lang/dewaynecox123456-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer | PowerShell Automation | Linux Operations | Active Directory | Audit & Compliance Tooling
 
-Here are some ideas to get you started:
+Focused on:
+- PowerShell operational tooling
+- Windows Server & Active Directory automation
+- Linux administration and security workflows
+- SOX-style audit evidence collection
+- Operational reporting and visibility tooling
+- Small business and infrastructure automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### BayouFinds Ops Suite
+PowerShell-based Windows audit and SOX evidence toolkit for Active Directory environments.
+
+- AD auditing
+- Privileged group visibility
+- Lockout tracking
+- Local admin auditing
+- Structured evidence exports
+
+### BayouFinds Windows Cleanup
+Safe Windows cleanup tooling using built-in Windows utilities and PowerShell.
+
+### CopyFail Checker & Patcher
+Linux-focused vulnerability verification and patch guidance tooling for Fedora and rpm-ostree environments.
+
+---
+
+## Technologies
+
+- PowerShell
+- Bash / ZSH
+- Fedora Linux
+- Active Directory
+- Windows Server
+- GitHub
+- Linux Operations
+- SOX / Compliance Workflows
+- Automation & Reporting
+
+---
+
+## Current Focus
+
+Building operational tooling, automation workflows, audit visibility solutions, and practical IT utilities under the BayouFinds brand.
